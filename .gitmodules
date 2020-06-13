@@ -1,6 +1,6 @@
 [submodule "client"]
    path = "client"
-   url  = "https://github.com/hantyrram/HeCommerce-client"
+   url  = "https://github.com/hantyrram/HeCommerce-cbo-client"
 [submodule "shop"]
    path = "server"
-   url  = "https://github.com/hantyrram/HeCommerce-server"
+   url  = "https://github.com/hantyrram/HeCommerce-cbo-server"
